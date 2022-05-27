@@ -1,0 +1,18 @@
+nav {
+    background-color: #1d1d1d;
+    width: 13rem;
+    height: 100vh;
+    font-family: "Open Sans",sans-serif;
+    display: grid;
+    gap: 20px;
+    color: #fff;
+    align-content: center;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    justify-content: center;
+}
+
+a {
+    color: #909096;
+    font-size: 1.6rem;
+}
