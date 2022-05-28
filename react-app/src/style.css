@@ -1,6 +1,6 @@
 nav {
     background-color: #1d1d1d;
-    width: 13rem;
+    width: 11rem;
     height: 100vh;
     font-family: "Open Sans",sans-serif;
     display: grid;
@@ -15,4 +15,4 @@ nav {
 a {
     color: #909096;
     font-size: 1.6rem;
-}
+}   
